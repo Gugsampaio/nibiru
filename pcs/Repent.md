@@ -1,4 +1,4 @@
----
+32 years old
 layout: default
 parent: Protagonists
 title: Repent
@@ -11,9 +11,9 @@ habitat: Dreadlands
 
 ----------------------------
 [atributos]
-Brawn 
-Wit 
-Will 
++1 Brawn 
++2 Wit 
++0 Will 
 
 ----------------------------
 [memorias]
@@ -24,12 +24,18 @@ Will
 
 ----------------------------
 [equipamento]
+3 tochas
+1 Pé de cabra
+1 Pederneira 
+1 Gancho
+1 Faca
+1 Caixa de ferramentas
 
 ----------------------------
 [condicoes]
 
 ----------------------------
-vigour: 
+vigour: 7
 armour: 0
 
 mp: 6
